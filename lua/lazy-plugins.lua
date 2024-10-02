@@ -68,6 +68,7 @@ require('lazy').setup({
   require 'plugins.refactor',
   require 'plugins.competitest',
   require 'plugins.auto-save',
+  require 'plugins.neo-tree',
 
   'ThePrimeagen/vim-be-good',
 }, {
